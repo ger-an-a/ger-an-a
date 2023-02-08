@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Привет, меня зовут <a href="" target="_blank">Анастасия</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">✨ Я - начинающий Frontend-разработчик ✨</h3>
 
-<!--
-**ger-an-a/ger-an-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Люблю учиться новому и повышать уровень имеющихся навыков;
+- 🌱 Умею результативно пользоваться гуглом;
+- 👯 Работа в команде - для меня не просто словосочетание;
+- 🎓 Окончила факультет веб-разработки в Я.Практикум;
+- 🤓 и бакалавриат МГТУ им.Н.Э.Баумана по направлению "мехатроника и робототехника";
+- ⚡ В данный момент работаю над [этим сайтом](https://examen-technolab.ru/main).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+Мой стек:
+- HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Git.
+
+# 📫 Контакты
+- Электронная почта: ger.an.a@yandex.ru;
+- Telegram: @cya_nastasia;
+- Резюме: [посмотреть здесь](https://hh.ru/resume/7be9cb9bff086977d80039ed1f77663947416e);
+- Портфолио: 
