@@ -14,7 +14,8 @@
 Мой стек:
 - HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Git.
 
-# 📫 Контакты
+# 
+📫 Контакты :
 - Электронная почта: ger.an.a@yandex.ru;
 - Telegram: @cya_nastasia;
 - Резюме: [посмотреть здесь](https://hh.ru/resume/7be9cb9bff086977d80039ed1f77663947416e);
