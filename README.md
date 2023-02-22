@@ -1,7 +1,7 @@
 <h1 align="center">Привет, меня зовут <a href="https://ger-an-a.github.io/portfolio/" target="_blank">Анастасия</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">✨ Я - начинающий Frontend-разработчик ✨</h3>
-<a href="https://ger-an-a.github.io/portfolio/" target="_blank">Портфолио</a>
+<a  align="center" href="https://ger-an-a.github.io/portfolio/" target="_blank">Портфолио здесь</a>
 
 
 - 🔭 Люблю учиться новому и повышать уровень имеющихся навыков;
