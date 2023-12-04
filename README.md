@@ -1,6 +1,6 @@
 <h1 align="center">Привет, меня зовут <a title="Открыть портфолио" href="https://ger-an-a.github.io/portfolio/" target="_blank">Анастасия</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">✨ Я - Fullstack-разработчик ✨</h3>
+<h3 align="center">✨ Я - fullstack-разработчик ✨</h3>
 
 
 - 🔭 Люблю учиться новому и повышать уровень имеющихся навыков;
